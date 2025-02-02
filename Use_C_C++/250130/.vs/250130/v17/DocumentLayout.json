@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programing\\CodingTest\\Use_C_C\u002B\u002B\\250130\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7BCEB5-C2FC-4025-8E95-AB258160EF15}|250130.vcxproj|D:\\Programing\\CodingTest\\Use_C_C\u002B\u002B\\250130\\Adventurer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB7BCEB5-C2FC-4025-8E95-AB258160EF15}|250130.vcxproj|solutionrelative:Adventurer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Adventurer.cpp",
+              "DocumentMoniker": "D:\\Programing\\CodingTest\\Use_C_C\u002B\u002B\\250130\\Adventurer.cpp",
+              "RelativeDocumentMoniker": "Adventurer.cpp",
+              "ToolTip": "D:\\Programing\\CodingTest\\Use_C_C\u002B\u002B\\250130\\Adventurer.cpp",
+              "RelativeToolTip": "Adventurer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-30T11:48:16.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
