@@ -12,10 +12,7 @@ void swap(int* p1, int* p2) {
 int main(void) {
 	int a = 3, b = 5;
 
-
-
 	cout << "a:" << a << "\t" << "b:" << b << endl;
-
 
 	swap(&a, &b);
 
